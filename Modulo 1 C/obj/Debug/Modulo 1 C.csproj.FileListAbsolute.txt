@@ -1,0 +1,7 @@
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\obj\Debug\Modulo 1 C.csprojResolveAssemblyReference.cache
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\obj\Debug\Modulo 1 C.csproj.CoreCompileInputs.cache
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\bin\Debug\Modulo 1 C.exe.config
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\bin\Debug\Modulo 1 C.exe
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\bin\Debug\Modulo 1 C.pdb
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\obj\Debug\Modulo 1 C.exe
+C:\Users\D.VIDEOJUEGOS\Documents\Modulo-1-c-\Modulo 1 C\obj\Debug\Modulo 1 C.pdb
