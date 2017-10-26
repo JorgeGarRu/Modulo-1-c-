@@ -47,6 +47,7 @@
     <Compile Include="Ejercicio practico 1\Musify.cs" />
     <Compile Include="Ejercicio practico 1\Playlist.cs" />
     <Compile Include="Ejercicio practico 1\Song.cs" />
+    <Compile Include="Ejercicio practico 1\Tests.cs" />
     <Compile Include="Ficheros\Ficheros.cs" />
     <Compile Include="Listas\Listas.cs" />
     <Compile Include="Operador Ternario\Operador Ternario.cs" />

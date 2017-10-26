@@ -1,0 +1,9 @@
+Nombre 1-Autor 1-135-1998-3-4
+Nombre 2-Autor 2-148-1992-3-2
+Nombre 3-Autor 3-240-2001-8-5
+Nombre 4-Autor 4-68-1992-8-4
+Nombre 5-Autor 5-190-2008-6-4
+
+*+++*
+Hip Hop 2017-Nombre 1:Autor 1,Nombre 2:Autor 2,
+Rock & Metal-Nombre 3:Autor 3,Nombre 4:Autor 4,Nombre 5:Autor 5,

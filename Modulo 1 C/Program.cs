@@ -179,7 +179,9 @@ namespace Modulo_1_C
 
             #endregion
 
-            Musify.Realizartest();
+
+
+            Tests.DoTest();
 
 
             Console.ReadLine();

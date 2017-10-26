@@ -45,7 +45,7 @@ namespace Modulo_1_C
 
         public Playlist()
         {
-            this.name = "Unknow";
+            this.name = "";
             this.songs = new List<Song>();
 
         }
@@ -56,6 +56,22 @@ namespace Modulo_1_C
             
 
             this.songs = songs;
+        }
+
+        public Playlist(string datos)
+        {
+            string[] playlistSplit = datos.Split('-');
+            name = playlistSplit[0];
+            string[] songsSplit = playlistSplit[1].Split(',');
+            songs = new List<Song>();
+            foreach(string songString in songsSplit)
+            {
+                string[] songsSplit1 = songString.Split(':');
+                string songName = songsSplit1[0];
+                string authorName = songsSplit1[1];
+                Song song = Musify.GetSongByNameAndAuthor(songName, authorName);
+                
+            }
         }
 
 

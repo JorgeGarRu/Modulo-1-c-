@@ -9,16 +9,16 @@ namespace Modulo_1_C
     
         public enum Genre
         {
-            Country,
-            Electronic,
-            Folk,
-            HipHop,
-            Jazz,
-            Pop,
-            Rock,
-            Latin,
-            Metal,
-            Classic
+            Country=0,
+            Electronic=1,
+            Folk=2,
+            HipHop=3,
+            Jazz=4,
+            Pop=5,
+            Rock=6,
+            Latin=7,
+            Metal=8,
+            Classic=9
         }
 
 
