@@ -70,6 +70,7 @@ namespace Modulo_1_C
                 string songName = songsSplit1[0];
                 string authorName = songsSplit1[1];
                 Song song = Musify.GetSongByNameAndAuthor(songName, authorName);
+                songs.Add(song);
                 
             }
         }
